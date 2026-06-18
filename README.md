@@ -74,7 +74,7 @@ For security, the LCD displays asterisks (`*`) instead of the actual digits. If 
 ### Schematic
 
 Proteus schematic image here.
-![image alt]
+![image alt](https://github.com/Abiramisankar0425/PIC18F4580-Electronic-Combination-Vault/blob/f7d52b74125499ba089b4a99528d3b122945c707/Screenshot%202026-06-18%20103250.png)
 
 ---
 
