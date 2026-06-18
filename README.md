@@ -366,11 +366,6 @@ Compile successfully to obtain the HEX file.
 * Multiple User Accounts
 * Password Change Feature
 
----
-
-## 📄 License
-
-This project is shared for educational purposes only. Unauthorized reproduction or commercial distribution is prohibited.
 
 ---
 
