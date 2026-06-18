@@ -73,7 +73,8 @@ For security, the LCD displays asterisks (`*`) instead of the actual digits. If 
 
 ### Schematic
 
-Insert Proteus schematic image here.
+Proteus schematic image here.
+![image alt]
 
 ---
 
@@ -385,4 +386,3 @@ Designed and simulated using Proteus and MPLAB XC8 with the PIC18F4580 microcont
 * MPLAB X IDE
 * XC8 Compiler
 * Proteus Design Suite
-![image alt](https://github.com/Abiramisankar0425/PIC18F4580-Electronic-Combination-Vault/blob/4fb1a8b461a75fcfdbeee3d4ae165bd745759f76/Screenshot%202026-06-15%20110918.png)
